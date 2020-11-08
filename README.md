@@ -14,9 +14,9 @@
  
 ## Установка
   
-  cd Satana ADB
+  git clone https://github.com/Bafomet666/Satana-Android-Debug-Bridge
 
-  и сразу запуск.
+  cd Satana-Android-Debug-Bridge-main
 
   python3 SatanaADB.py
 
