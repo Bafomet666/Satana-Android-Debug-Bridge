@@ -1,5 +1,5 @@
 # Satana sploit
-  Android Debug Bridge . Подключаемся к android имея только только IP / в версиях от 6+ отладку вклюсать обязательно
+  Android Debug Bridge . Подключаемся к android имея только только IP / в версиях от 6+ отладку включать обязательно. Но в некоторых iot устройствах и в 10 версии работает.
   
  
 ![alt tag](https://github.com/Bafomet666/screen/blob/main/adb.png)​
