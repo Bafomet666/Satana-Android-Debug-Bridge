@@ -38,4 +38,6 @@
 
   sudo apt install python-pip
 
+  Подписка н https://t.me/hacknocrime
+
 
