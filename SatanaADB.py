@@ -64,8 +64,11 @@ page_1 = '''{2}
              \       /      /\ 
          _____( (_  / \______/  
       ,' ,-----'    |           
-      `--(__________)          
+      `--(__________)
+'''.format(GNSL, REDL, WHSL)        
                      
+page_2 = '''{2}
+
   {0}[{1}1{0}] {2}Показать подключенные устройства        {0}[{1}10{0}]{2} Выключите устройство        {0}[{1}19{0}]{2} Извлечь apk из приложения            
   {0}[{1}2{0}] {2}Отключить все устройства                {0}[{1}11{0}]{2} Удалить приложение          {0}[{1}20{0}]{2} Get Battery Status                
   {0}[{1}3{0}] {2}Подключите новое устройство             {0}[{1}12{0}]{2} Показать журнал устройства  {0}[{1}21{0}]{2} Get Network Status                
@@ -78,7 +81,7 @@ page_1 = '''{2}
  
 '''.format(GNSL, REDL, WHSL)
 
-page_2 = '''\n
+page_3 = '''\n
 '''.format(GNSL, REDL, WHSL)
 
 def main():
@@ -530,6 +533,7 @@ def main():
             break
         else:
             print("Android Debug Bridge: Ошибка: invalid command")
+            print(page_2)
             option = input(ENDL + "Android Debug Bridge"+GNSL+"("+REDL + "main_menu" + GNSL + ")"+ENDL + "> ")
 
     main()
@@ -542,4 +546,5 @@ os.system("adb tcpip 5555 >> /dev/null")
 t.sleep(4)
 os.system('clear')
 print(page_1)
+print(page_2)
 main()
