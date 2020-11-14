@@ -3,8 +3,7 @@
 
 Обновил до версии 1.0
   
- 
-![alt tag](https://github.com/Bafomet666/screen/blob/main/adb.png)​
+ ![alt tag](https://github.com/Bafomet666/screen/blob/main/adb.png)​
 
  Я как создатель данного эксплойта, не несу не какой ответственности за ваши действия, ведь я не знаю что вы будите делать с ним. Сделано чисто в образовательных целях
 
