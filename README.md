@@ -1,6 +1,8 @@
 # Satana sploit
   Android Debug Bridge . Подключаемся к android имея только только IP / в версиях от 6+ отладку включать обязательно. Но в некоторых iot устройствах и в 10 версии работает.
 
+Версия под термукс платная. Писать в telegram https://t.me/satana666mx.
+
 Обновил до версии 1.0
   
  ![alt tag](https://github.com/Bafomet666/screen/blob/main/update.png)​
