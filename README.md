@@ -3,7 +3,9 @@
 
 тех поддержка платная. Писать в telegram https://t.me/satana666mx.
 
-Обновил до версии 1.0
+Обновил до версии 1.0 
+
+Установленна защита от ламеров и рукажопов.
   
  ![alt tag](https://github.com/Bafomet666/screen/blob/main/update.png)​
 
