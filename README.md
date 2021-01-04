@@ -15,7 +15,7 @@
    
 # Запускать
  
-  python3 SatanaADB.py
+  python3 satana.py
  
 ## Установка
   
@@ -23,7 +23,7 @@
 
   cd Satana-Android-Debug-Bridge-main
 
-  python3 SatanaADB.py
+  python3 satana.py
 
 ## Обязательно к установке
 
