@@ -1,9 +1,10 @@
 # Satana sploit
   Android Debug Bridge, оболочка для adb.
+  обновил 2 февраля.
 
 Установленна защита от ламеров и рукажопов.
   
- ![alt tag](https://github.com/Bafomet666/screen/blob/main/update.png)​
+ ![alt tag](https://github.com/Bafomet666/screen/blob/main/adb%20fin.png)​
 
  Я как создатель данного эксплойта, не несу не какой ответственности за ваши действия, ведь я не знаю что вы будите делать с ним. Сделано только в образовательных целях
    
