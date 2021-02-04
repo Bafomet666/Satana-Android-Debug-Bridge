@@ -2,6 +2,8 @@
   Android Debug Bridge, оболочка для adb.
   обновил 2 февраля.
 
+Версия под термукс лежит в архиве.
+
 Установленна защита от ламеров и рукажопов.
   
  ![alt tag](https://github.com/Bafomet666/screen/blob/main/adb%20fin.png)​
