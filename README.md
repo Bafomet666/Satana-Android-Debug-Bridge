@@ -5,7 +5,9 @@
   
 ---
 
-Работает под Kali linux / Parrot OS / Termux
+Работает под Kali linux / Parrot OS / Termux.
+
+В будущем проект будет полностью перенесен в Framework : https://github.com/Bafomet666/OSINT-SAN
 
 Версия под термукс лежит в архивe [ adb connect rus.zip ]
 
