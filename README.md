@@ -1,6 +1,6 @@
 # Satana sploit
   Android Debug Bridge, оболочка для adb.
-  обновил 2 февраля.
+  Последнее обновление 2 февраля.
 
 Версия под термукс лежит в архиве.
 
@@ -24,7 +24,10 @@
 
 ## Обязательно к установке
 
- sudo  apt-get install adb
+ sudo apt-get install adb
 
  sudo apt install android-tools-adb android-tools-fastboot
+ 
+--
 
+ Тех поддержка платная
