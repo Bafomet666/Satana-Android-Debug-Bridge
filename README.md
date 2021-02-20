@@ -1,6 +1,10 @@
 # Satana sploit
   Android Debug Bridge, оболочка.
   Последнее обновление 20 февраля.
+  
+---
+
+Работает под Kali linux / Parrot os / Termux
 
 Версия под термукс лежит в архивe [ adb connect rus.zip ]
 
@@ -9,11 +13,15 @@
  ![alt tag](https://github.com/Bafomet666/screen/blob/main/adb%20fin.png)​
 
  Я как создатель данного эксплойта, не несу не какой ответственности за ваши действия, ведь я не знаю что вы будите делать с ним. Сделано только в образовательных целях
-   
+ 
+---
+
 ## Start
  
  sudo python3 satana.py
  
+---
+
 ## install
   
  git clone https://github.com/Bafomet666/Satana-Android-Debug-Bridge
@@ -21,6 +29,8 @@
  cd Satana-Android-Debug-Bridge-main
 
  sudo python3 satana.py
+ 
+ ---
  
 ## Зависимости
 
