@@ -1,6 +1,6 @@
 # Satana sploit
-  Android Debug Bridge, оболочка для adb.
-  Последнее обновление 2 февраля.
+  Android Debug Bridge, оболочка.
+  Последнее обновление 20 февраля.
 
 Версия под термукс лежит в архивe [ adb connect rus.zip ]
 
