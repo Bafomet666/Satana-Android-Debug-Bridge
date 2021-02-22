@@ -1,4 +1,4 @@
-#by bafomet soft
+#by bafomet soft. Психологическая защита от долбаебов
 #!/usr/bin/python
 from module import pyarmor_runtime
 pyarmor_runtime()
