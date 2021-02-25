@@ -1,13 +1,11 @@
 # Satana sploit
   Android Debug Bridge, оболочка.
 
-  Последнее обновление 20 февраля. В мае 2021г будет полностью перенесено в OSINT-SAN.
+  Последнее обновление 20 февраля. В мае 2021г будет полностью перенесено в OSINT-SAN. https://github.com/Bafomet666/OSINT-SAN
   
 ---
 
 Работает под Kali linux / Parrot OS / Termux.
-
-В будущем проект будет полностью перенесен в Framework : https://github.com/Bafomet666/OSINT-SAN
 
 Версия под термукс лежит в архивe [ adb connect rus.zip ]
 
