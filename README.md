@@ -1,5 +1,5 @@
-# Satana sploit
-  Android Debug Bridge, оболочка.
+Не работает. Ждите обновления 15 марта.
+  Android Debug Bridge, оболочка.  
 
   Последнее обновление 20 февраля. В мае 2021г будет полностью перенесено в OSINT-SAN. https://github.com/Bafomet666/OSINT-SAN
   
