@@ -1,13 +1,8 @@
-Не работает. Ждите обновления 15 марта.
-  Android Debug Bridge, оболочка.  
+### Android Debug Bridge, оболочка.  
 
-  Последнее обновление 20 февраля. В мае 2021г будет полностью перенесено в OSINT-SAN. https://github.com/Bafomet666/OSINT-SAN
-  
----
+#### Полностью перенесено в OSINT-SAN. https://github.com/Bafomet666/OSINT-SAN
 
 Работает под Kali linux / Parrot OS / Termux.
-
-Версия под термукс лежит в архивe [ adb connect rus.zip ]
 
 Установленна защита от ламеров и рукажопов.
   
