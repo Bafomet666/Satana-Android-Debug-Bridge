@@ -5,6 +5,9 @@
 Работает под Kali linux / Parrot OS / Termux.
 
 Установленна защита от ламеров и рукажопов.
+
+
+Запуск python3 android.py
   
  ![alt tag](https://github.com/Bafomet666/screen/blob/main/adb%20fin.png)​
 
